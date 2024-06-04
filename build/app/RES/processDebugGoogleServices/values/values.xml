@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">83415966587</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdloFrHQXRfUJwjKIfZC25Uu7mD0OJ9Ck</string>
+    <string name="google_app_id" translatable="false">1:83415966587:android:a5f88a26ee4fd8586bd3de</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdloFrHQXRfUJwjKIfZC25Uu7mD0OJ9Ck</string>
+    <string name="google_storage_bucket" translatable="false">superheromoods-cit.appspot.com</string>
+    <string name="project_id" translatable="false">superheromoods-cit</string>
+</resources>

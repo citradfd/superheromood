@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83415966587",
+    "project_id": "superheromoods-cit",
+    "storage_bucket": "superheromoods-cit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83415966587:android:a5f88a26ee4fd8586bd3de",
+        "android_client_info": {
+          "package_name": "com.example.superheromood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdloFrHQXRfUJwjKIfZC25Uu7mD0OJ9Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
